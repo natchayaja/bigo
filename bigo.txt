@@ -1,0 +1,4 @@
+input	Array.sort	InsertionSort	
+10	1		1
+100	1		11
+1000	1		7723
